@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Prathamesh G. Chavan
 
-I'm a Full Stack Developer passionate about building impactful projects and learning new technologies.
+ Full Stack Developer passionate about building impactful projects and learning new technologies.
 
 ## 💻 About Me
 - 🔭 Currently working on: Microservices Project  
