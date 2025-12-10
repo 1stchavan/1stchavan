@@ -6,7 +6,7 @@
 - 🔭 Currently working on: Microservices Project  
 - 🌱 Learning: Springboot Cloud, API Gateway and JWT
 - 👯 Open to collaboration on interesting projects  
-- 📫 Reach me: cprathamesh334@gmail.cpm / www.linkedin.com/in/prathamesh-chavan-0b7a9821a
+- 📫 Reach me: cprathamesh334@gmail.com / www.linkedin.com/in/prathamesh-chavan-0b7a9821a
 
 ## 🛠 Skills
 - **Languages:** Java, HTML, CSS, JavaScript, SQL   
