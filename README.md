@@ -15,9 +15,9 @@
 - **Cloud:** AWS(EC2, VPC, S3)
 
 ## 📂 Projects
-- Fresh & Clean: Dry-Cleaning Service Web Application – Developed a full-stack web application to modernize dry-cleaning operations, featuring a responsive UI, secure user authentication, dynamic pricing, real-time booking confirmations, and an admin dashboard for efficient order management. Built with Spring Boot and MySQL for backend operations and service tracking.
+- **Fresh & Clean: Dry-Cleaning Service Web Application** – Developed a full-stack web application to modernize dry-cleaning operations, featuring a responsive UI, secure user authentication, dynamic pricing, real-time booking confirmations, and an admin dashboard for efficient order management. Built with Spring Boot and MySQL for backend operations and service tracking.
 
-- Hotel-Insights – Built a microservices-based Hotel Feedback System using Spring Boot, with independent User and Rating services communicating via Feign Client. Leveraged Eureka Discovery Server and Spring Cloud for dynamic service registration, centralized configuration, and inter-service communication. Developed REST APIs to fetch aggregated user and rating data, ensuring a scalable and loosely coupled architecture.
+- **Hotel-Insights** – Built a microservices-based Hotel Feedback System using Spring Boot, with independent User and Rating services communicating via Feign Client. Leveraged Eureka Discovery Server and Spring Cloud for dynamic service registration, centralized configuration, and inter-service communication. Developed REST APIs to fetch aggregated user and rating data, ensuring a scalable and loosely coupled architecture.
  
 ## 🎓 Certificates & Achievements
 Here are some of the certifications I've earned:
